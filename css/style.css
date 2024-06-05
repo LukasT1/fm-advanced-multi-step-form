@@ -1,0 +1,33 @@
+:root {
+  --color-prim-marine-blue: hsl(213, 96%, 18%)
+  --color-prim-purplish-blue hsl(243, 100%, 62%)
+  --color-prim-pastel-blue: hsl(228, 100%, 84%)
+  --color-prim-light-blue: hsl(206, 94%, 87%)
+  --color-prim-strawberry-red: hsl(354, 84%, 57%)
+  /// Neutral
+  --color-neut-cool-gray: hsl(231, 11%, 63%)
+  --color-neut-light-gray: hsl(229, 24%, 87%)
+  --color-neut-magnolia: hsl(217, 100%, 97%)
+  --color-neut-alabaster: hsl(231, 100%, 99%)
+  --color-neut-white: hsl(0, 0%, 100%)
+  //FONTS
+  --font-display: "Ubuntu", sans-serif;
+  --font-light: 300;
+  --font-regular: 400;
+  --font-bold: 700;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+/*# sourceMappingURL=style.css.map */
